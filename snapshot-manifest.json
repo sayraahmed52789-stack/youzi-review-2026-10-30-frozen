@@ -1,0 +1,18 @@
+{
+  "snapshot_date": "2026-10-30",
+  "source_filename": "游资心法工作台-2026-10-30.html",
+  "source_sha256": "5571b05daa2067c89efefd3c0efaa47e9afe73fb067368ab10e10d0e4664faf9",
+  "published_sha256": "6d2fbdb4a0d9e76fe7caed2ce44bd65af71df48c0b0afe9fe0c29f7e824259d8",
+  "network_access": false,
+  "live_updates": false,
+  "panels": [
+    "复盘",
+    "情绪周期",
+    "盘前",
+    "竞价",
+    "盘中",
+    "大盘",
+    "战绩",
+    "优化"
+  ]
+}
